@@ -44,8 +44,8 @@ htmlcov/
 .hypothesis/
 
 # Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
+#.ipynb_checkpoints
+#*.ipynb
 
 # IDEs
 .vscode/
